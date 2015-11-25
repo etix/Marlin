@@ -16,7 +16,7 @@
 // startup. Implementation of an idea by Prof Braino to inform user that any changes made to this
 // build by the user have been successfully uploaded into firmware.
 #define STRING_VERSION_CONFIG_H __DATE__ " " __TIME__ // build date and time
-#define STRING_CONFIG_H_AUTHOR "(David Braam)" //Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(Ludovic Fauvet)" //Who made the changes.
 
 //                      |01234567890123456789|
 #ifndef VERSION_BASE
